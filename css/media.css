@@ -1,0 +1,97 @@
+@media only screen and (max-width:762px){
+	
+	.row{
+		flex-wrap:wrap; 
+	}
+	.header-col-1,.header-col-2{
+		width:100%;
+	}
+	.height{
+		display:none;
+	}
+	.menu{
+		flex-direction:column;
+	}
+	.menu li{
+		margin-bottom:10px;
+	}
+	.bcol-1,.bcol-2{
+		width:100%;
+		margin-top:-60px;
+		
+	}
+	.left h1{
+		font-size:40px;
+	}
+	.left h1 br{
+		display:none;
+	}
+	.about-heading{
+		margin-top:110px;
+	}
+	.about-col-1,.about-col-2{
+		width:100%;
+	}
+	.about-img:before,.about-img:after{
+		display:none;
+	}
+	.about-heading{
+		font-size:45px;
+	}
+	.about-col-2{
+		margin-top:-70px;
+	}
+	.about-peragrph{
+		font-weight:500;
+		font-size:20px;
+	}
+	.about-link a{
+		font-size:25px;
+	}
+	.design-section{
+		margin-top:-25px;
+	}
+	.col-1{
+		width:100%;
+	}
+	.subscribe-col{
+		width:100%;
+	}
+	.contact-col{
+		width:100%;
+	}
+	.footer-contact{
+		width:100%;
+		margin-top:-50px;
+	}
+	.footer-col{
+		width:100%;
+	}
+	.contact-col{
+		width:100%;
+	}
+	.map{
+		width:100%;
+		padding-top:20px;
+	}
+	.heading-cont{
+		margin-top:-30px;
+	}
+	.subsc-email{
+		width:90%;
+	}
+	.bootem-section{
+		margin-top:-20px;
+	}
+	.footer-contact ul{
+		flex-direction:column;
+		flex-wrap:wrap;
+	} 
+	.footer-contact ul li{
+		width:100%;
+	} 
+	.about-link{
+		margin-top:50px;
+	}
+	
+}
